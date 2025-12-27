@@ -1,74 +1,31 @@
-<div align="center">
+## Hi there 👋
 
-# ⚡ Muhammad Rifky Ramadhan  
-### 💻 Web Developer | Backend-Oriented | Tech Explorer  
+<!--
+**muhammadrifkyramadhan/muhammadrifkyramadhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&theme=neon&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhammadrifkyramadhan&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&theme=neon&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Laravel+%7C+Node.js+%7C+Python;Clean+Code+%7C+Scalable+System;Welcome+to+my+GitHub!" />
+Here are some ideas to get you started:
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
-
----
-
-## 🧑‍💻 About Me
-- 🎓 Mahasiswa IT / Informatika  
-- 🔥 Fokus **Backend Development & System Design**  
-- 🧠 Suka membangun **sistem efisien, scalable, dan clean**  
-- 🚀 Terbiasa dengan project **akademik & real-case**  
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Backend & Web Framework
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00F5D4)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
-
----
-
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=muhammadrifkyramadhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🗄️ Database & Storage
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
-
----
-
-### ⚙️ Tools & Environment
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-
----
-
-## 📌 Featured Projects
-🚧 *On Going & Learning Projects*
-- 🛒 **E-Commerce Web App (Laravel + MySQL)**
-- 📊 **Sistem Manajemen Data & Laporan**
-- 🔐 **REST API (Node.js & Express)**
-- 🖥️ **Aplikasi Desktop Python**
-
----
-## 🏆 GitHub Profile Trophy
-<div align="center">
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&margin-w=15)
-
-</div>
-
----
-
-## 🧠 System Architecture
-
-Arsitektur sistem yang saya gunakan berfokus pada **scalability, maintainability, dan clean separation of concerns**.
-
-### 🏗️ High-Level Architecture
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
