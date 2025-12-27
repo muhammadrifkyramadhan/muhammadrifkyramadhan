@@ -1,35 +1,45 @@
-## 👋 Hi there, I'm Muhammad Rifky Ramadhan!
+<h1 align="center">Hi 👋, I'm Muhammad Rifky Ramadhan</h1>
+<h3 align="center">Informatics Engineering Student | Web & Software Developer</h3>
 
-🎓 **Informatics Engineering Student** 
-💻 **Fullstack & Software Development Enthusiast**  
-🚀 Passionate about building **scalable systems, modern web apps, and academic projects**
-
-I enjoy turning complex problems into simple, efficient, and elegant solutions.  
-Currently focusing on **Web Development, System Design, and Software Engineering fundamentals**.
+<p align="center">
+🚀 Passionate about building scalable systems, modern web applications, and academic-based projects  
+</p>
 
 ---
 
-## 🔭 What I'm Currently Working On
-- 🚗 Showroom & Business Web Applications
+## 👨‍💻 About Me
+🎓 **Informatics Engineering Student**  
+💻 **Fullstack & Software Development Enthusiast**
+
+I enjoy transforming complex problems into **simple, efficient, and maintainable solutions**.  
+Currently focused on **Web Development, Backend Systems, and Software Engineering fundamentals**.
+
+---
+
+## 🔭 Current Focus
+- 🚗 Developing **Showroom & Business Web Applications**
+- 📦 Inventory & Warehouse Management Systems
 - 📚 Academic papers & project-based learning
-- 🌐 Responsive & modern UI/UX web layouts
+- 🌐 Responsive and modern UI/UX layouts
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced **Backend Architecture**
-- **REST API & Authentication**
-- **Database Optimization & Design**
-- **Cloud & Deployment Basics**
-- Clean Code & Best Practices
+- 🧠 Advanced **Backend Architecture**
+- 🔐 **REST API & Authentication**
+- 🗄️ **Database Optimization & Design**
+- ☁️ **Cloud & Deployment Fundamentals**
+- ✨ Clean Code & Best Practices
 
 ---
 
-## 💼 Tech Stack
-### 🖥️ Programming Languages
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🌐 Web Development
@@ -42,50 +52,47 @@ Currently focusing on **Web Development, System Design, and Software Engineering
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🗄️ Database & Cloud
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ☁️ Cloud & Tools
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Inventory Management System** – PHP & MySQL  
-🔹 **Showroom Mobil Web App** – Admin & User Role  
-🔹 **Flow Control Network Simulation** – Cisco Packet Tracer  
-🔹 **Academic Papers** – Software Engineering & Data Communication  
+🔹 **Inventory & Warehouse Management System** — PHP & MySQL  
+🔹 **Showroom Mobil Web Application** — Admin & User Roles  
+🔹 **Flow Control Network Simulation** — Cisco Packet Tracer  
+🔹 **Academic Papers & Reports** — Software Engineering & Data Communication  
 
-> 📂 Check my repositories for detailed documentation & source code.
+📂 *Check my repositories for detailed documentation and source code.*
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&theme=neon&hide_border=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=muhammadrifkyramadhan&theme=neon&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&theme=neon&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&theme=neon&hide_border=true&count_private=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadrifkyramadhan&theme=neon&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&theme=neon&hide_border=true&layout=compact" />
+</p>
 
 ---
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=tokyonight&no-frame=true&margin-w=15" />
-
----
-## 📈 GitHub Achievements
-![](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=neon)
-![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrifkyramadhan&theme=neon)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🤝 Let's Connect
-- 📧 Email: *(isi jika mau)*
-- 💼 LinkedIn: *(opsional)*
-- 🌐 Portfolio: *(opsional)*
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=muhammadrifkyramadhan&icon=0&color=0" />
+</p>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=muhammadrifkyramadhan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-> “Code is not just about syntax, it's about solving real problems.”
+<p align="center"><i>“Code is not just about syntax, it's about solving real problems.”</i></p>
