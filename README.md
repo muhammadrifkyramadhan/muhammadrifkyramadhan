@@ -66,9 +66,8 @@ Currently focusing on **Web Development, System Design, and Software Engineering
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&theme=neon&hide_border=true&layout=compact)
 
 ---
-
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=tokyonight&no-frame=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=tokyonight)
 
 ---
 
