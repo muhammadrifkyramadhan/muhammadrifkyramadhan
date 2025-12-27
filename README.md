@@ -76,33 +76,21 @@ Currently focused on **Web Development, Backend Systems, and Software Engineerin
 - 🚗 **Showroom Mobil Web Application** — Admin & User Roles  
 - 🌐 **Flow Control Network Simulation** — Cisco Packet Tracer  
 - 📚 **Academic Papers & Reports** — SE & Data Communication  
-
-📂 *Check my repositories for full documentation & source code.*
-
 ---
 
-## 📊 GitHub Statistics
+ ## 📊 GitHub Statistics
 
-<p align="center">
-  <img width="47%" 
-       src="https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="47%" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=github_dark&hide_border=true)
 
-<p align="center">
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadrifkyramadhan&theme=github-dark&hide_border=true" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=github_dark&hide_border=true)
 
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrifkyramadhan&theme=github-dark&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img 
-       src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=darkhub&no-frame=true&margin-w=10" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=darkhub&no-frame=true&margin-w=8)
+
 
 
 ## ✍️ Dev Quote
