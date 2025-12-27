@@ -16,6 +16,13 @@
 
 ---
 
+## 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,laravel,bootstrap,angular,oracle,azure,r,python,css&theme=dark" />
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadrifkyramadhan&theme=radical&hide_border=true" />
