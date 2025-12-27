@@ -76,13 +76,6 @@ Currently focusing on **Web Development, System Design, and Software Engineering
 
 ---
 
-## 🤝 Let's Connect
-- 📧 Email: *(isi jika mau)*
-- 💼 LinkedIn: *(opsional)*
-- 🌐 Portfolio: *(opsional)*
-
----
-
 [![](https://visitcount.itsvg.in/api?id=muhammadrifkyramadhan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > “Code is not just about syntax, it's about solving real problems.”
