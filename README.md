@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,php,laravel,bootstrap,angular,oracle,azure,r,python,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,php,laravel,bootstrap,angular,azure,r,python,css&theme=dark" />
 </p>
 
 ---
