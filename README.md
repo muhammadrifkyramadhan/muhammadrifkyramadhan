@@ -70,6 +70,9 @@ Currently focusing on **Web Development, System Design, and Software Engineering
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=tokyonight&no-frame=true&margin-w=15" />
 
 ---
+## 📈 GitHub Achievements
+![](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=neon)
+![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrifkyramadhan&theme=neon)
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
