@@ -67,7 +67,7 @@ Currently focusing on **Web Development, System Design, and Software Engineering
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=tokyonight)
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=tokyonight&no-frame=true&margin-w=15" />
 
 ---
 
