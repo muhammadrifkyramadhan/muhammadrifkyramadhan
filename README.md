@@ -11,7 +11,7 @@
 
   <img src="https:/## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,laravel,ph,angular,php,oracle,azure,r,python,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,laravel,php,angular,php,oracle,azure,r,python,css&theme=dark" />
 </p>
 
 ---
