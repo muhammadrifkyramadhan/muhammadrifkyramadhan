@@ -9,23 +9,32 @@
 
 ---
 
-## 💻 Tech Stack
+  <img src="https:/## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,laravel,bootstrap,angular,oracle,azure,r,python,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,nextjs,nodejs,laravel,ph,angular,php,oracle,azure,r,python,css&theme=dark" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadrifkyramadhan&theme=radical&hide_border=true" />
+  <!-- Total Contributions & Overview -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=radical&hide_border=true" />
+  
+  <!-- Streak -->
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=muhammadrifkyramadhan&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -36,10 +45,3 @@
 </p>
 
 ---
-
-<div align="center">
-
-### ✨ “Build systems, not just code.”
-⭐ Jangan lupa **Follow & Star** jika bermanfaat
-
-</div>
