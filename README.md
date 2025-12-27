@@ -58,12 +58,10 @@
 - 🖥️ **Aplikasi Desktop Python**
 
 ---
-
-## 📈 GitHub Analytics
+## 🏆 GitHub Profile Trophy
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&margin-w=15)
 
 </div>
 
