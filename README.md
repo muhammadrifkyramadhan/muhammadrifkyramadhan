@@ -78,11 +78,8 @@ Currently focused on **Web Development, Backend Systems, and Software Engineerin
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&theme=neon&hide_border=true&count_private=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadrifkyramadhan&theme=neon&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&theme=neon&hide_border=true&layout=compact" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=neon)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=neon)
 
 ---
 
@@ -90,9 +87,5 @@ Currently focused on **Web Development, Backend Systems, and Software Engineerin
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=muhammadrifkyramadhan&icon=0&color=0" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadrifkyramadhan&style=flat-square)
 <p align="center"><i>“Code is not just about syntax, it's about solving real problems.”</i></p>
