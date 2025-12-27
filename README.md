@@ -61,7 +61,8 @@
 ## 🏆 GitHub Profile Trophy
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&margin-w=15)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical).
+
 
 </div>
 
