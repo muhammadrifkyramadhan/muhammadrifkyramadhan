@@ -4,7 +4,6 @@
 🚀 Passionate about building scalable systems, modern web applications, and academic-based projects.
 
 ---
-
 ## 👨‍💻 About Me
 🎓 Informatics Engineering Student at **Universitas Muhammadiyah Yogyakarta**  
 💻 Fullstack & Software Development Enthusiast
