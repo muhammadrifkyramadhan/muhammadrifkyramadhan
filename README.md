@@ -78,18 +78,16 @@ Currently focused on **Web Development, Backend Systems, and Software Engineerin
 - 📚 **Academic Papers & Reports** — SE & Data Communication  
 ---
 
- ## 📊 GitHub Statistics
+📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrifkyramadhan&theme=github-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhammadrifkyramadhan&theme=github-dark)
 
 
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=darkhub&no-frame=true&margin-w=8)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=darkhub)
 
 
 
