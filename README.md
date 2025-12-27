@@ -1,78 +1,76 @@
-# 👋 Muhammad Rifky Ramadhan
-🎓 **Mahasiswa Sistem Informasi**  
-💻 Minat pada *Pengembangan Web, Sistem Informasi, dan Rekayasa Perangkat Lunak*
+<div align="center">
+
+# ⚡ Muhammad Rifky Ramadhan  
+### 💻 Web Developer | Backend-Oriented | Tech Explorer  
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1200&color=00F5D4&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;Laravel+%7C+Node.js+%7C+Python;Clean+Code+%7C+Scalable+System;Welcome+to+my+GitHub!" />
+
+</div>
 
 ---
 
-## 🌱 Tentang Saya
-Saya adalah mahasiswa yang memiliki ketertarikan pada pengembangan sistem informasi dan aplikasi berbasis web.  
-Terbiasa mengerjakan proyek akademik yang berfokus pada **pengolahan data, sistem CRUD, dan aplikasi berbasis database** dengan pendekatan yang terstruktur dan efisien.
+## 🧑‍💻 About Me
+- 🎓 Mahasiswa IT / Informatika  
+- 🔥 Fokus **Backend Development & System Design**  
+- 🧠 Suka membangun **sistem efisien, scalable, dan clean**  
+- 🚀 Terbiasa dengan project **akademik & real-case**  
 
 ---
 
-## 🧠 Bidang Minat
-- 📊 Sistem Informasi & Manajemen Data  
-- 🌐 Pengembangan Aplikasi Web  
-- 🗄️ Basis Data & Sistem CRUD  
-- 🎨 UI/UX Design  
-- ⚙️ Analisis & Perancangan Sistem  
+## 🛠️ Tech Stack
+
+### 🌐 Backend & Web Framework
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00F5D4)
+![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B)
 
 ---
 
-## 🛠️ Teknologi & Tools
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📚 Proyek Akademik
-🔹 **Aplikasi E-Commerce Berbasis Web**  
-Menggunakan PHP / React, MySQL, dan konsep CRUD serta manajemen transaksi.
-
-🔹 **Sistem Manajemen File Digital**  
-Penerapan sistem pengelolaan dokumen untuk meningkatkan efisiensi penyimpanan data.
-
-🔹 **Aplikasi Manajemen Tugas (Desktop)**  
-Aplikasi berbasis Python untuk mengelola tugas dan prioritas pengguna.
-
-🔹 **Sistem Informasi Akademik (Studi Kasus)**  
-Pengelolaan data mahasiswa, mata kuliah, dan nilai berbasis database.
-
-🔹 **Makalah & Studi Literatur**  
-Topik: e-commerce, e-business, sistem informasi, transformasi digital, dan UMKM.
+### 🗄️ Database & Storage
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=316192)
 
 ---
 
-## 📈 Aktivitas GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact"/>
-</p>
+### ⚙️ Tools & Environment
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ---
 
-## 📫 Kontak
-📧 **Email**: your.email@example.com  
-🔗 **GitHub**: https://github.com/muhammadrifkyramadhan  
+## 📌 Featured Projects
+🚧 *On Going & Learning Projects*
+- 🛒 **E-Commerce Web App (Laravel + MySQL)**
+- 📊 **Sistem Manajemen Data & Laporan**
+- 🔐 **REST API (Node.js & Express)**
+- 🖥️ **Aplikasi Desktop Python**
 
 ---
 
-> _Repository ini digunakan sebagai dokumentasi pembelajaran, pengembangan proyek akademik, dan peningkatan kompetensi di bidang sistem informasi._
+## 📈 GitHub Analytics
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=muhammadrifkyramadhan&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrifkyramadhan&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🧠 System Architecture
+
+Arsitektur sistem yang saya gunakan berfokus pada **scalability, maintainability, dan clean separation of concerns**.
+
+### 🏗️ High-Level Architecture
