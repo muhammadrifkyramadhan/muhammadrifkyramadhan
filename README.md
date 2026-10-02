@@ -34,7 +34,10 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=radical&no-frame=true&row=1&column=7" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=muhammadrifkyramadhan&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
